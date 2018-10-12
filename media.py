@@ -4,7 +4,8 @@ class Movie():
     """ This class provides a way to store movie related information"""
 
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
-        """Initializes Movie class with title, storyline, URL to poster image and Youtube URL"""
+        """This function serves as a Constructor for the Movie class. It itializes
+            it with the class' title, storyline, URL to poster image and Youtube URL"""
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
