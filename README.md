@@ -26,12 +26,11 @@ SETUP
 Clone this repository and navigate to its landing directory.
 	
  
-HOW TO RUN
+<h3>HOW TO RUN</h3>
 
 From IDLE or a Windows command prompt, run the entertainment_center.py file.
-
 Run entertainment_center.py
 
-	# $ cd (landing directory)
-	# $ python entertainment_center.py
+	$ cd (landing directory)
+	$ python entertainment_center.py
 
